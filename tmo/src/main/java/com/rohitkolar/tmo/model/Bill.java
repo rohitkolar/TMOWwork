@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 public class Bill {
-	private int billId;
+	private int billId; 
 	private int orderId;
 	private String billNumber;
 	private Date billDate;
